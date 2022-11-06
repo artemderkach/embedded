@@ -10,3 +10,6 @@ repository to store useful links and info about embedded systems
 
 ## Programs
 [Online CPU emulator](https://cpulator.01xz.net/)
+
+## Other
+[cmsis-svd files](https://github.com/posborne/cmsis-svd)
