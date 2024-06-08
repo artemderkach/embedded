@@ -12,4 +12,5 @@ repository to store useful links and info about embedded systems
 [Online CPU emulator](https://cpulator.01xz.net/)
 
 ## Other
-[cmsis-svd files](https://github.com/posborne/cmsis-svd)
+[cmsis-svd files](https://github.com/posborne/cmsis-svd)  
+[The most thoroughly commented linker script (probably)](https://blog.thea.codes/the-most-thoroughly-commented-linker-script/)
